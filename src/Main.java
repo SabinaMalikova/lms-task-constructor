@@ -15,5 +15,7 @@ public class Main {
                 "\nAge: "+myClass1.age+
                 "\nPeaksoft Lessons: "+ Arrays.toString(myClass2.lessons)+
                 "\nMy favorite  food: "+myClass2.favoriteFood);
+        //comment
+
     }
 }
